@@ -8,5 +8,5 @@ Just added the "captureserver" in RpcRemoteFindFirstPrinterChangeNotificationEx 
 
 ## Usage
 ```
-SpoolSamplerNET.exe \\\\listener \\\\PrinterHost
+SpoolSamplerNET.exe \\listener \\PrinterHost
 ```
